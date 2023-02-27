@@ -1,0 +1,28 @@
+{
+	"employees": [
+		{
+		"id": 100,
+			"firstName": "Harvey",
+			"lastName": "Spector",
+			"email": "harveyspector@gmail.com",
+			"marritalStatus": "yes",
+			"salary": 60000
+		},
+		{
+		"id": 101,
+			"firstName": "Mike",
+			"lastName": "Ross",
+			"email": "mikeross@gmail.com",
+			"marritalStatus": "yes",
+			"salary": 80000
+		},
+		{
+		"id": 102,
+			"firstName": "Rakesh",
+			"lastName": "Naidu",
+			"email": "rakeshchowdarykurapati@gmail.com",
+			"maritalStatus": "no",
+			"salary": 50000
+		}
+	]
+}
